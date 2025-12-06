@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Trabajo De Apps Web\\BusTrackBackEnd\\BusTrackBackEnd.API\\BusTrackBackEnd.API.csproj": {}
+    "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\uuuuuuuuuuuuuuuulrimo\\Ultimo-Back\\BusTrackBackEnd\\BusTrackBackEnd.API\\BusTrackBackEnd.API.csproj": {}
   },
   "projects": {
-    "D:\\Trabajo De Apps Web\\BusTrackBackEnd\\BusTrackBackEnd.API\\BusTrackBackEnd.API.csproj": {
+    "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\uuuuuuuuuuuuuuuulrimo\\Ultimo-Back\\BusTrackBackEnd\\BusTrackBackEnd.API\\BusTrackBackEnd.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trabajo De Apps Web\\BusTrackBackEnd\\BusTrackBackEnd.API\\BusTrackBackEnd.API.csproj",
+        "projectUniqueName": "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\uuuuuuuuuuuuuuuulrimo\\Ultimo-Back\\BusTrackBackEnd\\BusTrackBackEnd.API\\BusTrackBackEnd.API.csproj",
         "projectName": "BusTrackBackEnd.API",
-        "projectPath": "D:\\Trabajo De Apps Web\\BusTrackBackEnd\\BusTrackBackEnd.API\\BusTrackBackEnd.API.csproj",
-        "packagesPath": "C:\\Users\\Andree\\.nuget\\packages\\",
-        "outputPath": "D:\\Trabajo De Apps Web\\BusTrackBackEnd\\BusTrackBackEnd.API\\obj\\",
+        "projectPath": "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\uuuuuuuuuuuuuuuulrimo\\Ultimo-Back\\BusTrackBackEnd\\BusTrackBackEnd.API\\BusTrackBackEnd.API.csproj",
+        "packagesPath": "C:\\Users\\joaqu\\.nuget\\packages\\",
+        "outputPath": "D:\\joaqu\\MiPC\\UPC\\6 CICLO\\App Web\\uuuuuuuuuuuuuuuulrimo\\Ultimo-Back\\BusTrackBackEnd\\BusTrackBackEnd.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Andree\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\joaqu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -120,7 +118,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\joaqu\\.dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
