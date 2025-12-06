@@ -62,7 +62,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 {
     if (connectionString != null)
     {
-        options.UseMySQL(connectionString)
+        options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString))
             .LogTo(s => Console.WriteLine(s), LogLevel.Information)
             .EnableSensitiveDataLogging()
             .EnableDetailedErrors();

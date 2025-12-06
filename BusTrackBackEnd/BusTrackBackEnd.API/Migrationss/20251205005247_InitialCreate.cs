@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 using MySql.EntityFrameworkCore.Metadata;
 
@@ -124,4 +124,4 @@ namespace BusTrackBackEnd.API.Migrations
                 name: "routes");
         }
     }
-}
+}*/
